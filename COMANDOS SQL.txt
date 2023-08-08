@@ -1,0 +1,8 @@
+PARA INSERIR REGISTRO NA TABELA 
+
+Exemplo:
+     INSERT INTO tb_cliente (nome, email) 
+       VALUES ('ciclano', 'ciclano@bol.com');
+
+Comandos para ler:
+     SELECT * FROM tb_cliente;
